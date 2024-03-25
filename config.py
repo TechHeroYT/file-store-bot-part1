@@ -34,8 +34,8 @@ DB_NAME = environ.get("DB_NAME", "vjbotz")
 
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "6313485501:AAGURPPXiS4BPUsRPDzYM5H66KWiZCn_7Cw")
-BOT_USERNAME = environ.get("BOT_USERNAME", "what_if_dubb_bot") # your bot username without @
+BOT_TOKEN = environ.get("BOT_TOKEN", "7002931685:AAFGLi1wKQ8ofG9-ihqkWwYPJWc5sYMufLA")
+BOT_USERNAME = environ.get("BOT_USERNAME", "autossd_bot") # your bot username without @
 PICS = (environ.get('PICS', 'https://te.legra.ph/file/66604e5911df5a0c43ffa.jpg https://te.legra.ph/file/66604e5911df5a0c43ffa.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
